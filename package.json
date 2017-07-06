@@ -1,8 +1,8 @@
 {
-  "name": "ts-module",
+  "name": "buffered-graphics",
   "version": "0.1.0",
-  "description": "Module boiler plate using TypeScript, Gulp, Uglify and Tape",
-  "main": "module.js",
+  "description": "Buffered Graphics for Phaser and Pixi.js.",
+  "main": "bufferedgraphics.js",
   "scripts": {
     "build": "gulp minify",
     "clean": "gulp clean",
